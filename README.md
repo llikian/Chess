@@ -6,7 +6,7 @@ This project is a simple implementation of a game of chess using SDL2 to handle 
 ### Dependencies
 On a Debian system you can install the needed dependencies using:
 ```shell
-sudo apt install g++ cmake make libsdl2-dev libsdl2-ttf-dev -y
+sudo apt install g++ cmake make libsdl2-dev libsdl2-image-dev libsdl2-ttf-dev -y
 ```
 
 ### Clone Repository
